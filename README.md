@@ -1,6 +1,20 @@
 # distance-between-locations
 **Code to develop a scalable data structure where one can add a new city and corresponding distance from all the existing cities in the system.**
+Example : 
+Enter the root city: Noida
+Enter a new city: Delhi
+Enter the distance from Noida: 50
 
+Enter a new city: Mumbai
+Enter the distance from Noida: 1400
+Enter the distance from Delhi: 1350
+
+Enter a new city: Bengaluru
+Enter the distance from Noida: 2150
+Enter the distance from Delhi: 2100
+Enter the distance from Mumbai: 1000
+
+**NOTE: UI part is skipped, could be developed based on user interest**
 The data strcuture developed is a graph using Python Programming language.
 
 In the code we create two classes, Graph which holds list of vertices and Vertex which represents each vertex in the graph.
