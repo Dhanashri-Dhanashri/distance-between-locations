@@ -20,3 +20,5 @@ Vertex provides methods like :
 
 In main(), we created vertices labelled with names of cities like Noida, Delhi, Mumbai, Bengaluru. This can vary based on the question.
 Then we displayed the vertex dictionary. Notice that for each key, we have created an instance of a Vertex. Next, we add the edges that connect the vertices together. Finally, a nested loop verifies that each edge in the graph is properly stored.
+
+![image](https://user-images.githubusercontent.com/55523316/166448829-35ebcb20-1d9d-47de-86b9-b31a40c8e4a9.png)
